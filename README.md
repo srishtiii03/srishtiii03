@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srishtiii03
 - 👀 I’m interested in web development, android development and C++
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently learning web development and android development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
